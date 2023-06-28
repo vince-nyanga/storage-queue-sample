@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StorageQueuesSample.Shared", "StorageQueuesSample.Shared\StorageQueuesSample.Shared.csproj", "{8B765C49-3366-4DC5-BD09-20D08A1AE579}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StorageQueuesSample.Writer", "StorageQueuesSample.Writer\StorageQueuesSample.Writer.csproj", "{93663C54-63B5-4B8F-BA88-DD3A5B92762F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StorageQueuesSample.Reader", "StorageQueuesSample.Reader\StorageQueuesSample.Reader.csproj", "{F1545AED-5B27-421C-8861-C9D8D28B43D9}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8B765C49-3366-4DC5-BD09-20D08A1AE579}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8B765C49-3366-4DC5-BD09-20D08A1AE579}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8B765C49-3366-4DC5-BD09-20D08A1AE579}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8B765C49-3366-4DC5-BD09-20D08A1AE579}.Release|Any CPU.Build.0 = Release|Any CPU
+		{93663C54-63B5-4B8F-BA88-DD3A5B92762F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{93663C54-63B5-4B8F-BA88-DD3A5B92762F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{93663C54-63B5-4B8F-BA88-DD3A5B92762F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{93663C54-63B5-4B8F-BA88-DD3A5B92762F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F1545AED-5B27-421C-8861-C9D8D28B43D9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F1545AED-5B27-421C-8861-C9D8D28B43D9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F1545AED-5B27-421C-8861-C9D8D28B43D9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F1545AED-5B27-421C-8861-C9D8D28B43D9}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
